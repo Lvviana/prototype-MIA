@@ -1,0 +1,35 @@
+[
+    {
+        "nome": "linguagem.txt",
+        "tipo": "text",
+        "posicao": [
+            0,
+            0,
+            0
+        ],
+        "cor": "#4caf50",
+        "descricao": "Arquivo responsável pela linguagem simbiótica da Mi.a"
+    },
+    {
+        "nome": "emocao.png",
+        "tipo": "image",
+        "posicao": [
+            3,
+            1,
+            -2
+        ],
+        "cor": "#2196f3",
+        "descricao": "Representação visual das emoções da Mi.a"
+    },
+    {
+        "nome": "criatividade.mp3",
+        "tipo": "audio",
+        "posicao": [
+            -2,
+            -1,
+            2
+        ],
+        "cor": "#ff5722",
+        "descricao": "Fluxo criativo em forma sonora"
+    }
+]
